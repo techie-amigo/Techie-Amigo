@@ -20,12 +20,11 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+![coding-freak (1)](https://github.com/techie-amigo/Techie-Amigo/assets/152780911/7fd85376-a5cb-4e78-bec2-b6269f2b2bd1)
+
 <!---
 [![techie-amigo github activity graph](https://activity-graph.herokuapp.com/graph?username=techie-amigo-code&theme=dracula&area=true)](https://github.com/techie-amigo-code)
 <br>
-
-
-
 
 
 <br><details> <summary align="center"> </samp></summary>
@@ -35,8 +34,6 @@
 </p></details>
  
 
-
- 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="techie-amigo Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
 <div align="center">
